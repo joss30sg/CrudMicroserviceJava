@@ -1,0 +1,11 @@
+com\InterviewJosephSagastegui\springboot\app\util\paginator\PageRender.class
+com\InterviewJosephSagastegui\springboot\app\SpringBootCrudJpaApplication.class
+com\InterviewJosephSagastegui\springboot\app\models\dao\IEstudianteDao.class
+com\JosephSagastegui\springboot\app\util\paginator\PageRender.class
+com\JosephSagastegui\springboot\app\SpringBootCrudJpaApplication.class
+com\InterviewJosephSagastegui\springboot\app\models\service\IEstudiantesService.class
+com\InterviewJosephSagastegui\springboot\app\models\entity\Estudiantes.class
+com\InterviewJosephSagastegui\springboot\app\controllers\EstudianteController.class
+com\JosephSagastegui\springboot\app\util\paginator\PageItem.class
+com\InterviewJosephSagastegui\springboot\app\util\paginator\PageItem.class
+com\InterviewJosephSagastegui\springboot\app\models\service\EstudianteServiceImpl.class
