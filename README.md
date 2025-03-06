@@ -3,7 +3,7 @@ aplicación web crud, springboot, Thymeleaf mas JPA
 
 Esta aplicación fue desarrollada con Spring Tool Suite 4 en la versión de SpringFramework 2.4.5, y Java 11
 
- En este proyecto se creo una aplicación web “CRUD” Crear, Leer, Actualizar y Borrar para una lista de clientes, donde además se puede ver el detalle de cada cliente seleccionándolo desde la lista, en el detalle incluye un archivo de imagen que también se puede Leer, eliminar o crear, según sea la necesidad. La aplicación también cuenta con una clase paginator que nos permite organizar la cantidad de clientes que se pueden observar por vista y a su vez nos permite movernos entre las paginas para hacer mucho mas amigable la para el usuario.
+ En este proyecto se creo una aplicación web “CRUD” Crear, Leer, Actualizar y Borrar para una lista de clientes, donde además se puede ver el detalle de cada cliente seleccionándolo desde la lista, que también se puede Leer, eliminar o crear, según sea la necesidad. La aplicación también cuenta con una clase paginator que nos permite organizar la cantidad de clientes que se pueden observar por vista y a su vez nos permite movernos entre las paginas para hacer mucho mas amigable la para el usuario.
 
 El proyecto se organizo en cinco paquetes principales 
 
